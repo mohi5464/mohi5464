@@ -1,6 +1,6 @@
 ## Tech Stack
 
-👋 Hey there! I’m [ABDUL MURAD]
+👋 Hey there! I’m ABDUL MOHI
 💻 I write code that sometimes even works. (Mostly on the second attempt.)  
 
 🚀 **What I do:**  
