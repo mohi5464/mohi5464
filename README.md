@@ -21,6 +21,10 @@ I'm a funny person so feel free to connect with me for anything — not only job
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width = "40" height = "40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "40" height = "40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width = "40" height = "40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "40 " height="40" />
+          
+            
+
           
           
           
