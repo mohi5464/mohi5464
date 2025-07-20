@@ -1,16 +1,26 @@
-## Tech Stack
-
-👋 Hey there! I’m ABDUL MOHI
-💻 I write code that sometimes even works. (Mostly on the second attempt.)  
+👋 Hey there! I’m **ABDUL MOHI**  
+💻 A passionate full-stack web developer willing to work everywhere, every time!!!
 
 🚀 **What I do:**  
 🛠️ Turning coffee into code ☕ → 💻  
 🐛 Fixing bugs I created 5 minutes ago  
-🤖 Automating things just to be lazy  
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+💬 **Ask me about:**  
+C++, Python, JavaScript, HTML, CSS
+
+🌟 **How to reach me:**  
+📧 abdulmohi554@gmail.com
+
+⚡ **Fun fact:**  
+I'm a funny person so feel free to connect with me for anything — not only jobs!
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"  width ="40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width = "40" height = "40 " />
+          
+
+
+            <
+          
+
